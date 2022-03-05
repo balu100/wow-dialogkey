@@ -343,17 +343,7 @@ function DialogKey:GetQuestButtons()			-- Return sorted list of quest button fra
 			name     = f:GetText()
 		})
 	end
-	
-	table.sort(frames,function(a,b)
-		if a.top > b.top then
-			return 1
-		elseif a.top < b.top then
-			return -1
-		end
-		
-		return 0
-	end)
-	
+	table.sort(frames,function(a,b) return a.top > b.top end)
 	return frames
 end
 
