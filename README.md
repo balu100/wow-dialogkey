@@ -6,9 +6,10 @@ Adds the ability to bind a button (default: spacebar) that can accept popup dial
 # Shadowlands Adjustments
 Adjusted version of the original wow-dialog key addon to work with WoW Shadowlands.  
 Can be installed by downloading the ZIP manually or using CurseBreaker:  
-`CB> install https://github.com/Kayakflo/wow-dialogkey`
+`CB> install https://github.com/balu100/wow-dialogkey`
 
 The original repo can be found here:
 https://github.com/TonyRaccoon/wow-dialogkey
+https://github.com/Kayakflo/wow-dialogkey
 
 This repo might be deleted or turned private once the adaptions are merged into the original repo and published on curse.
