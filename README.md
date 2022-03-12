@@ -8,7 +8,7 @@ Adjusted version of the original wow-dialog key addon to work with WoW Shadowlan
 Can be installed by downloading the ZIP manually or using CurseBreaker:  
 `CB> install https://github.com/balu100/wow-dialogkey`
 
-The original repo can be found here:
+The original repos can be found here:
 https://github.com/TonyRaccoon/wow-dialogkey
 https://github.com/Kayakflo/wow-dialogkey
 
